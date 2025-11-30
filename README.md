@@ -1,10 +1,10 @@
-# -- --
+# PxAPP Maker
 ### Make your PaxoPhone Apps with easy !
 
 <img width="581" height="142" alt="-- -- logo" src="-- --" />
 
 # 📝 Description:
-- **-- --** is an **Open Source** Windows Software that makes the process of making a PaxoPhone application easier and less time consuming.
+- **PxAPP Maker** is an **Open Source** Windows Software that makes the process of making a PaxoPhone application easier and less time consuming.
 
 # ✨ Features:
 - Intuitive, user-friendly interface.
@@ -25,11 +25,11 @@
 3. Extract the file and enjoy !
    
 # 🧐 How to use it ?
-### Setting up the -- -- project:
+### Setting up the PxAPP Maker project:
 1. Run the program.
 2. If you want to create a new application, click on "New Project". If not, just click on "Load Project".
 3. If you clicked on "Load Project":
-  - Just select the correct folder of the project (usually located on `Documents\-- -- Projects`)
+  - Just select the correct folder of the project (usually located on `Documents\PxAPP Maker Projects`)
 3. If you clicked on "New Project":
   - Fill all the blanks and then click on Create Project when its enabled.
 
