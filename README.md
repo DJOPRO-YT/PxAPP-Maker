@@ -1,8 +1,8 @@
 # PxAPP Maker
 ### Make your PaxoPhone Apps with easy !
-
+<!--
 <img width="581" height="142" alt="-- -- logo" src="-- --" />
-
+-->
 # 📝 Description:
 - **PxAPP Maker** is an **Open Source** Windows Software that makes the process of making a PaxoPhone application easier and less time consuming.
 
