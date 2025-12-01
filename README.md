@@ -48,6 +48,8 @@
 2. Locate the Software Folder
 3. Move the new SDK folder to `SDKs`
 4. The SDK is installed successfully
+> [!NOTE]
+> PxAPP Maker comes with a built-in SDK but you can also find the default SDK [here](https://github.com/DJOPRO-YT/PxAPP-SDK)
 ### Toolkit:
 1. Download the Toolkit and Extract the Folder (If needed)
 2. Locate the Software Folder
