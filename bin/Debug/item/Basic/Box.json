@@ -1,6 +1,0 @@
-{
-    "image":"box.png",
-    "inputs":["Name"],
-    "need_size":true,
-    "code":"design.[[Name]] = design.win:box(win, [[x]], [[y]], [[w]], [[h]])"
-}

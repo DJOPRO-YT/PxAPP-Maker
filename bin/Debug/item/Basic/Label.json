@@ -1,6 +1,0 @@
-{
-    "image":"label.png",
-    "inputs":["Name"],
-    "need_size":true,
-    "code":"design.[[Name]] = design.win:label(win, [[x]], [[y]], [[w]], [[h]])"
-}

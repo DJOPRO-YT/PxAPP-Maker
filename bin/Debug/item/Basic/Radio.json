@@ -1,8 +1,0 @@
-{
-    "image":"radio.png",
-    "inputs":["Name"],
-    "need_size":false,
-    "w":10,
-    "h":10,
-    "code":"design.[[Name]] = design.win:radio(win, [[x]], [[y]])"
-}

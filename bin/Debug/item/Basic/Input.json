@@ -1,8 +1,0 @@
-{
-    "image":"input.png",
-    "inputs":["Name"],
-    "need_size":false,
-    "w":50,
-    "h":10,
-    "code":"design.[[Name]] = design.win:input(win, [[x]], [[y]])"
-}

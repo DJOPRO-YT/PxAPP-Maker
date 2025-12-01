@@ -1,6 +1,0 @@
-{
-    "image":"hlist.png",
-    "inputs":["Name"],
-    "need_size":true,
-    "code":"design.[[Name]] = design.win:hList(win, [[x]], [[y]], [[w]], [[h]])"
-}

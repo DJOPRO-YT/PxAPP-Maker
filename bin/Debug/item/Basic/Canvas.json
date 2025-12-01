@@ -1,6 +1,0 @@
-{
-    "image":"canvas.png",
-    "inputs":["Name"],
-    "need_size":true,
-    "code":"design.[[Name]] = design.win:canvas(win, [[x]], [[y]], [[w]], [[h]])"
-}

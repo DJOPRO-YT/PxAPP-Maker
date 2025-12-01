@@ -1,6 +1,0 @@
-{
-    "image":"image.png",
-    "inputs":["Name","Path","Background"],
-    "need_size":true,
-    "code":"design.[[Name]] = design.win:image(win, '[[Path]]',[[x]], [[y]], [[w]], [[h]],[[Background]])"
-}
